@@ -1,4 +1,1 @@
-streamlit
-streamlit-agraph
-pandas
-numpy
+streamlit-agraph==0.0.44
