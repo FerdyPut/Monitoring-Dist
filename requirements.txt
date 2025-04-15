@@ -1,1 +1,1 @@
-streamlit-agraph==0.0.44
+streamlit-agraph==0.0.45
