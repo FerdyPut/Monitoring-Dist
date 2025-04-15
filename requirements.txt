@@ -1,2 +1,0 @@
-streamlit
-streamlit-agraph==0.0.45
